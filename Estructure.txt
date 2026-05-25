@@ -1,0 +1,1214 @@
+# The Kaizen Way — Brand Look Book Structure
+
+Este documento define la estructura del Brand Look Book digital de **The Kaizen Way**, proyecto de cultura organizacional de Grupo Kaizen.
+
+Debe ser utilizado como contexto para construir un brandbook en HTML, con una experiencia visual minimalista, moderna, editorial, premium y corporativa.
+
+El resultado debe sentirse como una marca cultural de alto nivel, no como una presentación tradicional de RRHH.
+
+---
+
+# Dirección general del documento
+
+## Nombre del documento
+
+**The Kaizen Way — Brand Look Book**
+
+## Estilo general
+
+Minimalista, moderno, editorial, premium y corporativo.
+
+## Sensación visual
+
+Espacios amplios, pocos elementos por lámina, mucha respiración visual, tipografía protagonista, uso elegante del color y transiciones suaves.
+
+## Formato recomendado para HTML
+
+Experiencia tipo microsite / lookbook interactivo, no PDF estático.
+
+Cada sección debe sentirse como una “lámina” o pantalla editorial.
+
+## Paleta base del documento
+
+- Fondo principal claro: `#F7F3E8`
+- Fondo institucional oscuro: `#003144`
+- Texto principal: `#003144`
+- Acentos por pilar según sistema cromático.
+
+## Archivos disponibles para el logo
+
+Codex tendrá disponibles los siguientes archivos:
+
+- `logo_TKF.svg`
+- `iso_TKF.svg`
+
+Ambos archivos pueden venir en un solo color base, por ejemplo negro.
+
+Codex debe adaptar visualmente estos SVG según lo indicado en cada lámina:
+
+- Logo blanco sobre fondo oscuro.
+- Logo Midnight Kaizen sobre fondo claro.
+- Isotipo blanco sobre fondo oscuro.
+- Isotipo Midnight Kaizen sobre fondo claro.
+- Versión cromática especial del logo o isotipo usando los colores principales y de pilares.
+
+Es importante mostrar tanto el logo completo como el isotipo en la sección correspondiente.
+
+---
+
+# 1. Portada
+
+## Lámina 1 — Cover
+
+### Objetivo
+
+Presentar la marca con máxima limpieza, presencia y elegancia.
+
+### Contenido
+
+- Logo principal de **The Kaizen Way**.
+- Texto pequeño en la esquina inferior derecha: **Brand Look Book**
+- Sin subtítulos adicionales.
+- Sin exceso de información.
+
+### Diseño sugerido
+
+Fondo sólido en `#003144`.
+
+Logo en blanco, ubicado ligeramente hacia la izquierda o centrado con aire amplio.
+
+Texto “Brand Look Book” pequeño, alineado abajo a la derecha.
+
+### Composición visual
+
+- 70% espacio negativo.
+- Logo como protagonista.
+- Texto secundario muy discreto.
+
+### Microinteracción sugerida
+
+Entrada suave del logo con fade-in y leve desplazamiento vertical.
+
+El texto “Brand Look Book” puede aparecer medio segundo después.
+
+### Copy exacto
+
+**The Kaizen Way**
+
+**Brand Look Book**
+
+---
+
+# 2. Índice
+
+## Lámina 2 — Índice
+
+### Objetivo
+
+Dar estructura y navegación clara al lookbook.
+
+### Contenido
+
+Lista de secciones:
+
+1. Brand Overview  
+2. Logo  
+3. Colors  
+4. Pillars  
+5. Typography  
+6. Graphic Style  
+7. Imagery / POP  
+8. Voice  
+9. Closing
+
+### Diseño sugerido
+
+Fondo `#F7F3E8`.
+
+Título grande: **Index** o **Índice**.
+
+Números grandes, delgados y elegantes.
+
+Cada línea puede tener un pequeño descriptor.
+
+Como el documento tiene un nombre en inglés, se pueden usar títulos de sección en inglés, pero el contenido interno debe mantenerse en español. Esto le da un look más editorial y premium sin perder claridad.
+
+### Copy sugerido
+
+**Índice**
+
+**01. Brand Overview**  
+La esencia estratégica y narrativa de la marca.
+
+**02. Logo**  
+El símbolo, sus versiones y su significado.
+
+**03. Colors**  
+El sistema cromático de The Kaizen Way.
+
+**04. Pillars**  
+Los pilares culturales que dan vida a la marca.
+
+**05. Typography**  
+El sistema tipográfico y sus usos.
+
+**06. Graphic Style**  
+El lenguaje visual, formas, patrones y recursos gráficos.
+
+**07. Imagery / POP**  
+Dirección de imágenes, aplicaciones y materiales físicos.
+
+**08. Voice**  
+El tono de voz de la marca cultural.
+
+**09. Closing**  
+La idea final que sostiene el sistema.
+
+### Microinteracción sugerida
+
+Al hacer hover sobre cada sección, que aparezca una línea fina o cambio de color sutil.
+
+---
+
+# 3. Brand Overview
+
+## Lámina 3 — Section Opener: Brand Overview
+
+### Objetivo
+
+Abrir la primera sección con una frase potente y conceptual.
+
+### Contenido
+
+Título de sección: **Brand Overview**
+
+Frase principal:
+
+**Una cultura que se vive, se comparte y se construye todos los días.**
+
+### Diseño sugerido
+
+Fondo oscuro `#003144`.
+
+Texto en `#F7F3E8`.
+
+Un detalle gráfico sutil inspirado en el símbolo del logo, casi como marca de agua.
+
+### Copy exacto
+
+**Brand Overview**
+
+**Una cultura que se vive, se comparte y se construye todos los días.**
+
+---
+
+## Lámina 4 — Qué es The Kaizen Way
+
+### Objetivo
+
+Explicar de forma clara qué representa la marca.
+
+### Contenido
+
+Una definición institucional breve.
+
+### Copy sugerido
+
+**The Kaizen Way** es la identidad cultural de Grupo Kaizen.
+
+Representa nuestra forma común de **trabajar, comunicarnos, cuidarnos, crecer y generar valor** como grupo.
+
+No nace como una campaña temporal, sino como una plataforma cultural viva: una manera de hacer visible lo que nos une y de orientar los comportamientos que queremos fortalecer en todas nuestras empresas.
+
+### Diseño sugerido
+
+Fondo claro.
+
+Texto grande, editorial, con una columna amplia.
+
+Destacar en bold:
+
+**trabajar, comunicarnos, cuidarnos, crecer y generar valor**
+
+---
+
+## Lámina 5 — Concepto estratégico
+
+### Objetivo
+
+Definir la idea central de la marca.
+
+### Concepto central recomendado
+
+**Nuestra forma de avanzar juntos.**
+
+### Copy sugerido
+
+**The Kaizen Way** representa nuestra forma de avanzar juntos.
+
+Es el camino que conecta a nuestras empresas, áreas, tiendas, plantas, equipos administrativos y líderes bajo una misma identidad cultural.
+
+Habla de cómo tomamos decisiones, cómo nos relacionamos, cómo logramos resultados, cómo cuidamos a las personas y cómo seguimos creciendo con propósito.
+
+### Diseño sugerido
+
+Fondo `#F7F3E8`.
+
+Título grande en `#003144`.
+
+Usar una línea horizontal delgada como recurso visual de “camino”.
+
+---
+
+## Lámina 6 — Slogan principal
+
+### Objetivo
+
+Presentar la frase fuerza oficial de la marca.
+
+### Copy principal
+
+**Nuestra forma de trabajar, crecer y lograr resultados.**
+
+### Copy de apoyo
+
+Una frase que resume la esencia de The Kaizen Way: cultura como acción, crecimiento como proceso y resultados como consecuencia de una forma coherente de trabajar juntos.
+
+### Diseño sugerido
+
+Fondo oscuro `#003144`.
+
+Slogan en grande, blanco o `#F7F3E8`.
+
+Detalle pequeño en Marigold `#F4A258`.
+
+---
+
+## Lámina 7 — Principios narrativos de la marca
+
+### Objetivo
+
+Explicar los mensajes que deben sostener toda la comunicación de la marca.
+
+### Contenido sugerido
+
+The Kaizen Way debe comunicar siempre cinco ideas:
+
+1. La cultura se construye todos los días.
+2. La mejora continua es una forma de trabajar.
+3. El crecimiento de las personas impulsa el crecimiento del grupo.
+4. La confianza y los resultados deben convivir.
+5. Lo que nos une debe hacerse visible en comportamientos, decisiones y experiencias.
+
+### Diseño sugerido
+
+Cinco tarjetas minimalistas.
+
+Cada tarjeta puede usar un color de pilar como acento pequeño, no como fondo completo.
+
+---
+
+# 4. Logo
+
+## Lámina 8 — Section Opener: Logo
+
+### Objetivo
+
+Abrir la sección del logo con presencia visual.
+
+### Contenido
+
+Título: **Logo**
+
+Frase:
+
+**Un símbolo de movimiento, crecimiento y continuidad.**
+
+### Diseño sugerido
+
+Fondo `#003144`.
+
+Logo grande en blanco.
+
+Isotipo en blanco como elemento secundario o marca de agua.
+
+Frase pequeña abajo.
+
+### Nota técnica para Codex
+
+Usar `logo_TKF.svg` y `iso_TKF.svg`.
+
+Convertirlos visualmente a blanco para esta lámina.
+
+---
+
+## Lámina 9 — Logo principal
+
+### Objetivo
+
+Mostrar la versión principal del logo.
+
+### Contenido
+
+- Logo completo: The Kaizen Way.
+- Isotipo solo como aplicación secundaria.
+- Fondo oscuro.
+- Breve explicación de uso.
+
+### Copy sugerido
+
+La versión principal del logo debe utilizarse sobre fondo Midnight Kaizen, en blanco, para lograr máxima presencia, contraste y recordación.
+
+Esta aplicación representa la expresión más institucional y reconocible de la marca.
+
+### Diseño sugerido
+
+Fondo `#003144`.
+
+Logo centrado o alineado a la izquierda con mucho aire.
+
+Mostrar también el isotipo en una tarjeta secundaria.
+
+### Nota técnica para Codex
+
+Usar:
+
+- `logo_TKF.svg` en blanco.
+- `iso_TKF.svg` en blanco.
+
+---
+
+## Lámina 10 — Logo sobre fondo claro
+
+### Objetivo
+
+Mostrar la versión clara/editorial.
+
+### Contenido
+
+- Logo en `#003144`.
+- Isotipo en `#003144`.
+- Fondo `#F7F3E8`.
+
+### Copy sugerido
+
+La versión sobre fondo claro debe utilizarse en materiales editoriales, documentos internos, presentaciones de contenido y piezas donde se requiera mayor calidez visual.
+
+### Nota técnica para Codex
+
+Usar:
+
+- `logo_TKF.svg` adaptado a `#003144`.
+- `iso_TKF.svg` adaptado a `#003144`.
+
+---
+
+## Lámina 11 — Logo con mezcla de colores principales
+
+### Objetivo
+
+Mostrar una versión especial del logo que integre la paleta cultural.
+
+### Contenido
+
+- Logo o isotipo con mezcla de colores principales / pilares.
+- Explicación de uso.
+
+### Copy sugerido
+
+La versión cromática del logo expresa la diversidad del sistema cultural de The Kaizen Way.
+
+Debe utilizarse en momentos especiales: lanzamiento, presentaciones de pilares, piezas de campaña, brandbook, eventos o comunicaciones donde se quiera representar la cultura como un sistema vivo.
+
+### Regla importante
+
+Esta versión no reemplaza al logo principal. Funciona como una expresión especial de la marca.
+
+### Diseño sugerido
+
+Fondo claro.
+
+Logo multicolor o isotipo multicolor como protagonista.
+
+Mostrar una pequeña etiqueta:
+
+**Uso especial**
+
+### Nota técnica para Codex
+
+A partir de `logo_TKF.svg` y/o `iso_TKF.svg`, crear una versión visual cromática usando la paleta:
+
+- Midnight Kaizen `#003144`
+- Herb Green `#708C69`
+- Celeste Mist `#BDD3CE`
+- Marigold `#F4A258`
+- Clay Human `#B97958`
+
+La versión cromática puede aplicarse preferiblemente sobre el isotipo para evitar saturar el logo completo.
+
+---
+
+## Lámina 12 — Narrativa del logo
+
+### Objetivo
+
+Explicar qué representa el símbolo sin hacerlo demasiado espiritual.
+
+### Copy sugerido
+
+El símbolo de The Kaizen Way representa movimiento, conexión y crecimiento.
+
+Su forma puede interpretarse como un camino en expansión, un conjunto de personas avanzando en una misma dirección o una flor que se abre progresivamente.
+
+Esta relación visual con la flor de loto refuerza una idea central de la marca: **el crecimiento como proceso continuo**.
+
+The Kaizen Way no representa un punto de llegada. Representa una forma de avanzar, aprender, adaptarnos y evolucionar juntos.
+
+### Diseño sugerido
+
+Lado izquierdo: símbolo grande.
+
+Lado derecho: texto breve.
+
+Usar una animación sutil donde el símbolo aparezca por partes.
+
+### Nota técnica para Codex
+
+Usar `iso_TKF.svg` como protagonista de esta lámina.
+
+---
+
+## Lámina 13 — Versiones del logo
+
+### Objetivo
+
+Ordenar las aplicaciones permitidas.
+
+### Contenido
+
+Mostrar en tarjetas:
+
+1. Logo blanco sobre Midnight Kaizen.
+2. Logo Midnight Kaizen sobre Ivory Way.
+3. Isotipo blanco sobre Midnight Kaizen.
+4. Isotipo Midnight Kaizen sobre Ivory Way.
+5. Versión cromática especial del isotipo.
+
+### Copy sugerido
+
+El sistema permite versiones principales, editoriales y especiales para adaptarse a distintos contextos sin perder consistencia visual.
+
+### Nota técnica para Codex
+
+Usar `logo_TKF.svg` y `iso_TKF.svg`.
+
+Adaptar color según cada tarjeta.
+
+---
+
+## Lámina 14 — Área de seguridad y tamaño mínimo
+
+### Objetivo
+
+Definir reglas básicas de uso.
+
+### Contenido
+
+- Área mínima alrededor del logo.
+- Área mínima alrededor del isotipo.
+- Tamaño mínimo recomendado.
+- No saturar alrededor del logo.
+
+### Copy sugerido
+
+El logo debe respirar.
+
+Mantener siempre un área de seguridad suficiente alrededor de la marca para asegurar claridad, presencia y legibilidad.
+
+### Nota para Codex
+
+Dejar espacio visual para diagramar el área de seguridad.
+
+Se puede representar con líneas guía, márgenes o un recuadro técnico minimalista.
+
+Definir medidas proporcionales visuales, aunque puedan ajustarse más adelante cuando el logo final esté vectorizado.
+
+---
+
+# 5. Colors
+
+## Lámina 15 — Section Opener: Colors
+
+### Objetivo
+
+Introducir el sistema cromático.
+
+### Copy principal
+
+**Una paleta que equilibra solidez corporativa y calidez humana.**
+
+### Diseño sugerido
+
+Fondo claro.
+
+Mosaico elegante con los seis colores.
+
+Título grande.
+
+---
+
+## Lámina 16 — Personalidad cromática
+
+### Objetivo
+
+Explicar el criterio detrás de los colores.
+
+### Copy sugerido
+
+La paleta de The Kaizen Way nace del equilibrio entre confianza, claridad, bienestar, crecimiento y pertenencia.
+
+Debe sentirse corporativa, pero no fría.  
+Humana, pero no informal.  
+Premium, pero cercana.  
+Moderna, pero sostenible en el tiempo.  
+Cultural, pero accionable.
+
+### Diseño sugerido
+
+Texto en formato editorial.
+
+Destacar las dualidades:
+
+**corporativa / humana / premium / moderna / cultural**
+
+---
+
+## Lámina 17 — Paleta principal
+
+### Objetivo
+
+Presentar los colores base.
+
+### Contenido
+
+**Midnight Kaizen**  
+HEX `#003144`  
+RGB `0, 49, 68`  
+Rol: Principal / Ancla institucional
+
+**Ivory Way**  
+HEX `#F7F3E8`  
+RGB `247, 243, 232`  
+Rol: Principal claro / Base editorial
+
+### Diseño sugerido
+
+Dos tarjetas grandes tipo brandbook.
+
+Inspiradas en la referencia visual compartida.
+
+---
+
+## Lámina 18 — Paleta secundaria
+
+### Objetivo
+
+Presentar los colores complementarios del sistema.
+
+### Contenido
+
+**Celeste Mist**  
+HEX `#BDD3CE`  
+RGB `189, 211, 206`
+
+**Herb Green**  
+HEX `#708C69`  
+RGB `112, 140, 105`
+
+**Marigold**  
+HEX `#F4A258`  
+RGB `244, 162, 88`
+
+**Clay Human**  
+HEX `#B97958`  
+RGB `185, 121, 88`
+
+### Diseño sugerido
+
+Cuatro tarjetas grandes o grid 2x2.
+
+Cada una con nombre, HEX, RGB y rol.
+
+---
+
+# 6. Pillars
+
+## Lámina 19 — Section Opener: Pillars
+
+### Objetivo
+
+Introducir los pilares culturales.
+
+### Copy principal
+
+**Cinco pilares para hacer visible nuestra cultura.**
+
+### Copy de apoyo
+
+The Kaizen Way se vive en la forma en que trabajamos, nos cuidamos, nos comunicamos, crecemos y valoramos a nuestra gente.
+
+### Diseño sugerido
+
+Fondo oscuro.
+
+Cinco líneas o cinco bloques de color pequeños representando los pilares.
+
+---
+
+## Lámina 20 — Vista general de pilares
+
+### Objetivo
+
+Mostrar los cinco pilares como sistema, de forma compacta.
+
+### Contenido
+
+**Formas de Trabajo**  
+La confianza y los resultados van de la mano.
+
+**Bienestar Integral**  
+Cuidar a las personas también es cuidar el negocio.
+
+**Comunicaciones**  
+La claridad nos conecta y nos hace avanzar.
+
+**Desarrollo Profesional**  
+Cuando las personas crecen, Kaizen crece.
+
+**Experiencia de Valor**  
+Sentirse valorado también construye cultura.
+
+### Diseño sugerido
+
+Grid de cinco tarjetas compactas.
+
+Cada tarjeta debe incluir:
+
+- Nombre del pilar.
+- Frase fuerza.
+- Color asignado.
+- Pequeño espacio para ícono o símbolo.
+- Microcopy breve opcional.
+
+### Colores por pilar
+
+**Formas de Trabajo**  
+Midnight Kaizen — `#003144`
+
+**Bienestar Integral**  
+Herb Green — `#708C69`
+
+**Comunicaciones**  
+Celeste Mist — `#BDD3CE`
+
+**Desarrollo Profesional**  
+Marigold — `#F4A258`
+
+**Experiencia de Valor**  
+Clay Human — `#B97958`
+
+---
+
+## Lámina 21 — Pilares aplicados a beneficios e iniciativas
+
+### Objetivo
+
+Mostrar que los pilares no son conceptos abstractos.
+
+### Copy sugerido
+
+Cada beneficio, iniciativa o experiencia interna debe conectarse con un pilar cultural.
+
+Esto permite comunicar los beneficios no como acciones aisladas, sino como expresiones visibles de la cultura que queremos construir.
+
+### Ejemplos
+
+**Home Office** → Formas de Trabajo  
+**Política de desconexión digital** → Bienestar Integral  
+**Espacios mensuales de alineación** → Comunicaciones  
+**Kaizen University** → Desarrollo Profesional  
+**Kaizen Plus** → Experiencia de Valor
+
+### Diseño sugerido
+
+Usar una tabla minimalista o tarjetas horizontales.
+
+Cada iniciativa puede tener una etiqueta de color correspondiente a su pilar.
+
+---
+
+# 7. Typography
+
+## Lámina 22 — Section Opener: Typography
+
+### Objetivo
+
+Presentar el sistema tipográfico.
+
+### Copy principal
+
+**Tipografía limpia, moderna y humana para una marca clara y premium.**
+
+---
+
+## Lámina 23 — Tipografía principal: Raleway
+
+### Objetivo
+
+Definir el uso de Raleway.
+
+### Contenido
+
+**Tipografía principal:**  
+Raleway
+
+**Uso recomendado:**
+
+- Títulos principales.
+- Portadas.
+- Frases fuerza.
+- Headlines.
+- Secciones editoriales.
+- Momentos de alto impacto visual.
+
+### Razonamiento
+
+Raleway aporta elegancia, ligereza y presencia visual. Su estilo geométrico y limpio permite que la marca se sienta moderna, premium y ordenada.
+
+---
+
+## Lámina 24 — Tipografía secundaria: Manrope
+
+### Objetivo
+
+Definir la tipografía secundaria.
+
+### Contenido
+
+**Tipografía secundaria:**  
+Manrope
+
+**Uso recomendado:**
+
+- Cuerpos de texto.
+- Descripciones.
+- Notas.
+- Tarjetas.
+- Interfaz HTML.
+- Botones.
+- Navegación.
+- Textos funcionales.
+
+### Razonamiento
+
+Manrope complementa a Raleway con una lectura clara, contemporánea y digital. Funciona muy bien para contenidos largos, interfaces y piezas donde la legibilidad es clave.
+
+---
+
+# 8. Graphic Style
+
+## Lámina 25 — Section Opener: Graphic Style
+
+### Objetivo
+
+Abrir el lenguaje gráfico.
+
+### Copy principal
+
+**Un sistema visual simple, fluido y construido con intención.**
+
+---
+
+## Lámina 26 — Principios gráficos
+
+### Objetivo
+
+Definir cómo debe verse la marca más allá del logo.
+
+### Contenido
+
+El estilo gráfico de The Kaizen Way debe ser minimalista, editorial y cálido.
+
+Debe utilizar pocos elementos, pero con intención clara: formas suaves, líneas fluidas, espacios amplios y composiciones limpias.
+
+### Principios
+
+- Menos elementos, más intención.
+- Espacio antes que saturación.
+- Movimiento sutil antes que decoración.
+- Color como guía, no como ruido.
+- La marca debe sentirse viva, no recargada.
+
+---
+
+## Lámina 27 — Formas y recursos visuales
+
+### Objetivo
+
+Dar dirección a Codex para crear recursos gráficos.
+
+### Contenido sugerido
+
+El sistema puede inspirarse en:
+
+- Líneas curvas que evoquen camino.
+- Formas orgánicas derivadas del símbolo.
+- Círculos como representación de personas.
+- Ondas como representación de movimiento.
+- Bloques suaves de color.
+- Patrones sutiles basados en la W.
+- Composiciones asimétricas con mucho espacio negativo.
+
+### Nota para Codex
+
+Crear recursos gráficos abstractos y minimalistas inspirados en el logo, sin sobrecargar la composición ni hacer ilustraciones literales.
+
+---
+
+## Lámina 28 — Patrones derivados del símbolo
+
+### Objetivo
+
+Crear una extensión visual propia.
+
+### Contenido
+
+El isotipo puede funcionar como base para patrones, marcas de agua, separadores, fondos sutiles y elementos de navegación.
+
+Los patrones deben ser discretos y elegantes, nunca competir con el contenido.
+
+### Diseño sugerido
+
+Mostrar 2 o 3 espacios de ejemplo para patrones generados por Codex.
+
+Usar `iso_TKF.svg` como base visual para construir variaciones abstractas.
+
+---
+
+## Lámina 29 — Layout y composición
+
+### Objetivo
+
+Definir reglas de composición.
+
+### Contenido sugerido
+
+- Usar grillas limpias.
+- Priorizar márgenes amplios.
+- Evitar exceso de bloques.
+- Permitir que el texto respire.
+- Usar tarjetas grandes y pocas por pantalla.
+- Alternar fondos oscuros y claros.
+- Reservar los colores de pilares para secciones específicas.
+
+---
+
+# 9. Imagery / POP
+
+## Lámina 30 — Section Opener: Imagery / POP
+
+### Objetivo
+
+Abrir la sección de imágenes y aplicaciones.
+
+### Copy principal
+
+**La cultura debe verse real, cercana y coherente.**
+
+---
+
+## Lámina 31 — Dirección de fotografía
+
+### Objetivo
+
+Definir el estilo de imágenes futuras.
+
+### Contenido sugerido
+
+Las imágenes de The Kaizen Way deben mostrar personas reales, equipos reales y momentos reales de trabajo.
+
+La cultura no debe sentirse como banco de imágenes. Debe verse cercana, auténtica y conectada con la experiencia diaria de Grupo Kaizen.
+
+### Estilo recomendado
+
+- Luz natural.
+- Momentos espontáneos.
+- Personas colaborando.
+- Equipos en oficinas, tiendas, plantas y centros de producción.
+- Conversaciones reales.
+- Detalles de manos, herramientas, pizarras, productos y espacios compartidos.
+- Ambientes cálidos y profesionales.
+
+---
+
+## Lámina 32 — Qué evitar en imágenes
+
+### Objetivo
+
+Evitar que la marca se vea genérica.
+
+### Contenido
+
+- Evitar fotos de stock demasiado posadas.
+- Evitar sonrisas artificiales.
+- Evitar imágenes excesivamente corporativas.
+- Evitar filtros saturados.
+- Evitar fondos desordenados.
+- Evitar imágenes que no representen la realidad del grupo.
+
+---
+
+## Lámina 33 — Espacios placeholder para imágenes
+
+### Objetivo
+
+Dejar espacios listos para futuras imágenes.
+
+### Contenido
+
+Codex debe crear placeholders visuales con nombres de archivo sugeridos.
+
+### Nombres sugeridos
+
+- `imagen-cultura-equipo-01.jpg`
+- `imagen-liderazgo-01.jpg`
+- `imagen-tiendas-01.jpg`
+- `imagen-planta-01.jpg`
+- `imagen-colaboracion-01.jpg`
+- `imagen-bienestar-01.jpg`
+- `imagen-formacion-01.jpg`
+- `imagen-beneficios-01.jpg`
+
+### Diseño sugerido
+
+Grid editorial de placeholders.
+
+Cada placeholder debe tener una etiqueta con el nombre del archivo.
+
+---
+
+## Lámina 34 — Material POP
+
+### Objetivo
+
+Explorar posibles aplicaciones físicas de marca.
+
+### Contenido sugerido
+
+The Kaizen Way puede vivir en materiales físicos y experiencias internas que refuercen la cultura de forma visible.
+
+### Ideas de material POP
+
+- Stickers de pilares.
+- Pins de reconocimiento.
+- Tarjetas de comportamientos.
+- Credenciales o lanyards para eventos.
+- Postales de bienvenida.
+- Murales internos.
+- Señalética de cultura.
+- Totems o estaciones de pilares.
+- Fondos para pantallas internas.
+- Kits de lanzamiento.
+- Cuadernos o libretas.
+- Tarjetas de beneficios.
+- Reconocimientos físicos.
+- Piezas para Kaizen Sports.
+- Materiales para Kaizen University.
+
+---
+
+# 10. Voice
+
+## Lámina 35 — Section Opener: Voice
+
+### Objetivo
+
+Abrir la sección de tono de voz.
+
+### Copy principal
+
+**Una voz clara, cercana y coherente con la cultura que queremos construir.**
+
+---
+
+## Lámina 36 — Voice Guidelines
+
+### Objetivo
+
+Definir cómo habla y escribe The Kaizen Way de forma compacta.
+
+### Personalidad verbal
+
+The Kaizen Way habla con un tono ejecutivo, inspirador, claro, humano y accionable.
+
+Debe sentirse cercano, pero no informal.  
+Estratégico, pero no distante.  
+Inspirador, pero no publicitario.  
+Simple, pero no superficial.
+
+### Cómo escribimos
+
+- Escribimos con claridad.
+- Usamos frases simples y directas.
+- Conectamos cada mensaje con una acción o comportamiento.
+- Evitamos frases vacías de cultura.
+- Hablamos desde el “nosotros”.
+- Explicamos el porqué de cada iniciativa.
+- Usamos un lenguaje humano, no burocrático.
+
+### Qué evitar
+
+- Evitar lenguaje demasiado académico.
+- Evitar exceso de anglicismos.
+- Evitar tono publicitario.
+- Evitar mensajes que suenen impuestos.
+- Evitar frases genéricas como “somos una gran familia” si no están conectadas a acciones reales.
+- Evitar comunicar beneficios sin explicar qué valor cultural generan.
+
+### Ejemplos de tono
+
+**Institucional:**  
+Hoy iniciamos una nueva etapa para hacer más visible lo que nos une como Grupo Kaizen.
+
+**Bienestar:**  
+Cuidar nuestra energía también es parte de trabajar mejor.
+
+**Desarrollo:**  
+Cada oportunidad de aprendizaje es una forma de seguir creciendo juntos.
+
+**Beneficios:**  
+Este beneficio nace para acompañar mejor tu experiencia y fortalecer una cultura donde sentirse valorado también importa.
+
+### Diseño sugerido
+
+Usar un layout compacto en bloques:
+
+- Cómo sonamos.
+- Cómo escribimos.
+- Qué evitamos.
+- Ejemplos.
+
+Evitar convertir esta sección en demasiadas pantallas.
+
+---
+
+# 11. Closing
+
+## Lámina 37 — Closing
+
+### Objetivo
+
+Cerrar el Brand Look Book con una frase emocional y estratégica.
+
+### Copy principal
+
+The Kaizen Way no es solo una identidad visual.
+
+Es una forma de hacer visible lo que nos une.
+
+Una manera de trabajar, crecer, comunicarnos, cuidarnos y avanzar juntos como Grupo Kaizen.
+
+### Diseño sugerido
+
+Fondo `#003144`.
+
+Texto en `#F7F3E8`.
+
+Logo pequeño abajo.
+
+Puede incluir un detalle sutil del isotipo como marca de agua.
+
+### Nota técnica para Codex
+
+Usar:
+
+- `logo_TKF.svg` en blanco.
+- `iso_TKF.svg` como marca de agua sutil en blanco con baja opacidad.
+
+---
+
+# Resumen de estructura final
+
+## The Kaizen Way — Brand Look Book
+
+### 01. Portada
+
+- Lámina 1 — Cover
+
+### 02. Índice
+
+- Lámina 2 — Índice
+
+### 03. Brand Overview
+
+- Lámina 3 — Apertura de sección
+- Lámina 4 — Qué es The Kaizen Way
+- Lámina 5 — Concepto estratégico
+- Lámina 6 — Slogan principal
+- Lámina 7 — Principios narrativos
+
+### 04. Logo
+
+- Lámina 8 — Apertura de sección
+- Lámina 9 — Logo principal
+- Lámina 10 — Logo sobre fondo claro
+- Lámina 11 — Logo con mezcla de colores principales
+- Lámina 12 — Narrativa del logo
+- Lámina 13 — Versiones del logo
+- Lámina 14 — Área de seguridad y tamaño mínimo
+
+### 05. Colors
+
+- Lámina 15 — Apertura de sección
+- Lámina 16 — Personalidad cromática
+- Lámina 17 — Paleta principal
+- Lámina 18 — Paleta secundaria
+
+### 06. Pillars
+
+- Lámina 19 — Apertura de sección
+- Lámina 20 — Vista general de pilares
+- Lámina 21 — Pilares aplicados a beneficios e iniciativas
+
+### 07. Typography
+
+- Lámina 22 — Apertura de sección
+- Lámina 23 — Tipografía principal: Raleway
+- Lámina 24 — Tipografía secundaria: Manrope
+
+### 08. Graphic Style
+
+- Lámina 25 — Apertura de sección
+- Lámina 26 — Principios gráficos
+- Lámina 27 — Formas y recursos visuales
+- Lámina 28 — Patrones derivados del símbolo
+- Lámina 29 — Layout y composición
+
+### 09. Imagery / POP
+
+- Lámina 30 — Apertura de sección
+- Lámina 31 — Dirección de fotografía
+- Lámina 32 — Qué evitar en imágenes
+- Lámina 33 — Espacios placeholder para imágenes
+- Lámina 34 — Material POP
+
+### 10. Voice
+
+- Lámina 35 — Apertura de sección
+- Lámina 36 — Voice Guidelines
+
+### 11. Closing
+
+- Lámina 37 — Cierre
+
+---

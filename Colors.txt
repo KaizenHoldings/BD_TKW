@@ -1,0 +1,631 @@
+# Colores  
+## Brandbook The Kaizen Way
+
+Este documento define el sistema cromático de **The Kaizen Way**, el proyecto de cultura organizacional de Grupo Kaizen.
+
+La paleta debe transmitir una identidad cultural **premium, humana, moderna, corporativa y cercana**. No debe sentirse como una campaña temporal de RRHH, sino como una marca cultural viva, transversal y sostenible para todo el grupo de empresas.
+
+La identidad visual debe equilibrar dos dimensiones:
+
+1. **Solidez corporativa**  
+   Representada por tonos profundos, sobrios y confiables que conectan con Grupo Kaizen.
+
+2. **Calidez humana y cultura viva**  
+   Representada por tonos naturales, suaves y cálidos que comuniquen bienestar, conexión, crecimiento, comunicación y sentido de pertenencia.
+
+El sistema cromático debe funcionar para presentaciones, piezas internas, eventos, comunicaciones, beneficios, campañas, infografías, brandbook en HTML, señalética, contenidos digitales y materiales de lanzamiento.
+
+---
+
+# 1. Personalidad cromática
+
+La paleta de **The Kaizen Way** nace del equilibrio entre confianza, claridad, bienestar, crecimiento y pertenencia.
+
+Debe sentirse:
+
+- Corporativa, pero no fría.
+- Humana, pero no informal.
+- Premium, pero cercana.
+- Moderna, pero sostenible en el tiempo.
+- Cultural, pero accionable.
+- Versátil para distintas empresas, áreas, tiendas, plantas, equipos administrativos y líderes.
+
+La paleta evita tonos demasiado brillantes, infantiles o publicitarios.  
+También se evita el uso de rosado como color principal o secundario.
+
+---
+
+# 2. Colores principales
+
+## 2.1 Midnight Kaizen
+
+**HEX:** `#003144`  
+**RGB:** `0, 49, 68`  
+**Rol:** Principal / Ancla institucional
+
+### Significado estratégico
+
+Midnight Kaizen representa la base institucional del programa.  
+Conecta visualmente a **The Kaizen Way** con Grupo Kaizen, aportando confianza, dirección, sobriedad, estrategia y nivel corporativo.
+
+Este color debe funcionar como el ancla visual del sistema, especialmente en piezas ejecutivas, portadas, encabezados, fondos principales y aplicaciones donde se necesite alta presencia institucional.
+
+### Usos recomendados
+
+- Fondos principales.
+- Portadas de presentaciones.
+- Encabezados del brandbook.
+- Secciones institucionales.
+- Logo en versión negativa.
+- Títulos principales.
+- Botones primarios.
+- Piezas formales de lanzamiento.
+- Comunicaciones desde Junta Directiva o Cultura y Bienestar.
+- Elementos de alto contraste.
+
+### Mensaje visual
+
+Confianza, foco, dirección, ownership, alto desempeño e identidad de grupo.
+
+---
+
+## 2.2 Ivory Way
+
+**HEX:** `#F7F3E8`  
+**RGB:** `247, 243, 232`  
+**Rol:** Principal claro / Base editorial
+
+### Significado estratégico
+
+Ivory Way aporta calidez, aire visual y humanidad al sistema.  
+Suaviza el azul institucional y permite que la identidad no se sienta demasiado rígida o fría.
+
+Debe ser el color principal para fondos claros, páginas editoriales, secciones de lectura, espacios de descanso visual y materiales donde se quiera transmitir cercanía, calma y claridad.
+
+### Usos recomendados
+
+- Fondos claros.
+- Páginas internas del brandbook.
+- Slides de contenido.
+- Tarjetas editoriales.
+- Infografías.
+- Piezas de comunicación interna.
+- Fondos para frases o manifiestos.
+- Documentos institucionales.
+- Espacios de respiración visual.
+
+### Mensaje visual
+
+Calidez, limpieza, humanidad, claridad, equilibrio y cercanía.
+
+---
+
+# 3. Colores secundarios
+
+## 3.1 Celeste Mist
+
+**HEX:** `#BDD3CE`  
+**RGB:** `189, 211, 206`  
+**Rol:** Secundario / Claridad y comunicación
+
+### Significado estratégico
+
+Celeste Mist transmite calma, claridad, transparencia y conexión.  
+Es un color suave, fresco y ordenado, ideal para representar conversaciones, información, escucha activa y alineación organizacional.
+
+### Usos recomendados
+
+- Bloques informativos.
+- Tarjetas de comunicación.
+- Secciones relacionadas con alineación.
+- Infografías.
+- Fondos secundarios.
+- Elementos de apoyo visual.
+- Comunicados internos.
+- Highlights suaves.
+- Componentes relacionados con el pilar de Comunicaciones.
+
+### Mensaje visual
+
+Claridad, cercanía, escucha, transparencia, conexión y confianza.
+
+---
+
+## 3.2 Herb Green
+
+**HEX:** `#708C69`  
+**RGB:** `112, 140, 105`  
+**Rol:** Secundario / Bienestar y equilibrio
+
+### Significado estratégico
+
+Herb Green conecta con bienestar, equilibrio, salud, energía sostenible y ambientes sanos de trabajo.  
+Es un verde sobrio y elegante, evitando una estética demasiado ecológica o informal.
+
+### Usos recomendados
+
+- Piezas de bienestar.
+- Comunicaciones sobre equilibrio vida-trabajo.
+- Activaciones de salud física o emocional.
+- Programas de desconexión.
+- Iniciativas de integración.
+- Elementos del pilar Bienestar Integral.
+- Fondos de sección.
+- Íconos o elementos gráficos suaves.
+
+### Mensaje visual
+
+Cuidado, respeto, equilibrio, sostenibilidad humana, energía y bienestar.
+
+---
+
+## 3.3 Marigold
+
+**HEX:** `#F4A258`  
+**RGB:** `244, 162, 88`  
+**Rol:** Secundario / Energía y crecimiento
+
+### Significado estratégico
+
+Marigold aporta energía, optimismo, movimiento y avance.  
+Debe utilizarse como color cálido de impulso, especialmente para representar crecimiento, aprendizaje, desarrollo profesional y momentos de celebración.
+
+Aunque es un color vibrante, debe aplicarse con moderación para mantener una estética premium.
+
+### Usos recomendados
+
+- Acentos visuales.
+- Llamados a la acción.
+- Highlights importantes.
+- Separadores de sección.
+- Elementos relacionados con aprendizaje.
+- Piezas de Kaizen University.
+- Reconocimientos.
+- Momentos de celebración.
+- Gráficos de evolución o avance.
+- Componentes del pilar Desarrollo Profesional.
+
+### Mensaje visual
+
+Impulso, aprendizaje, evolución, energía, futuro y crecimiento.
+
+---
+
+## 3.4 Clay Human
+
+**HEX:** `#B97958`  
+**RGB:** `185, 121, 88`  
+**Rol:** Complementario / Valor humano y pertenencia
+
+### Significado estratégico
+
+Clay Human aporta una dimensión más emocional, cálida y humana al sistema.  
+Es ideal para representar beneficios, reconocimiento, pertenencia y valor emocional.
+
+Debe usarse como color complementario o de acento editorial, no como color dominante permanente.
+
+### Usos recomendados
+
+- Piezas de beneficios.
+- Frases de reconocimiento.
+- Testimonios de colaboradores.
+- Comunicaciones de pertenencia.
+- Secciones emocionales del brandbook.
+- Elementos editoriales.
+- Detalles gráficos.
+- Componentes del pilar Experiencia de Valor.
+
+### Mensaje visual
+
+Valoración, cercanía, pertenencia, cuidado, experiencia humana y conexión emocional.
+
+---
+
+# 4. Sistema cromático por pilares
+
+The Kaizen Way se organiza en cinco pilares culturales.  
+Cada pilar debe contar con un color propio para facilitar la identificación visual en campañas, presentaciones, piezas internas, beneficios, eventos e infografías.
+
+Los colores por pilar deben utilizarse como parte de un sistema ordenado, no como elementos aislados o decorativos.
+
+---
+
+## 4.1 Formas de Trabajo
+
+**Color:** Midnight Kaizen  
+**HEX:** `#003144`
+
+### Por qué este color
+
+Este pilar habla de autonomía, responsabilidad, claridad, foco en resultados, confianza y ownership.  
+Por eso debe utilizar el color más sólido y corporativo del sistema.
+
+### Significado visual
+
+Foco, dirección, responsabilidad, claridad, alto desempeño y compromiso.
+
+### Aplicaciones recomendadas
+
+- Piezas sobre objetivos.
+- Comunicaciones de accountability.
+- Cultura de medición.
+- Lineamientos de trabajo.
+- Materiales para líderes.
+- Slides sobre resultados.
+- Elementos de desempeño y seguimiento.
+
+---
+
+## 4.2 Bienestar Integral
+
+**Color:** Herb Green  
+**HEX:** `#708C69`
+
+### Por qué este color
+
+Este pilar promueve equilibrio, energía, respeto, desconexión consciente y ambientes sanos de trabajo.  
+El verde comunica bienestar sostenible de una forma sobria y corporativa.
+
+### Significado visual
+
+Cuidado, equilibrio, salud, respeto, calma y sostenibilidad.
+
+### Aplicaciones recomendadas
+
+- Política de desconexión digital.
+- Kaizen Sports.
+- Actividades de bienestar.
+- Comunicaciones sobre salud física o emocional.
+- Campañas de equilibrio vida-trabajo.
+- Piezas sobre maternidad, paternidad o flexibilidad.
+- Contenidos de clima y ambientes sanos.
+
+---
+
+## 4.3 Comunicaciones
+
+**Color:** Celeste Mist  
+**HEX:** `#BDD3CE`
+
+### Por qué este color
+
+Este pilar habla de claridad, transparencia, cercanía, escucha, alineación y sentido de equipo.  
+El celeste verdoso transmite aire, calma, fluidez y conexión.
+
+### Significado visual
+
+Claridad, escucha, transparencia, conexión y alineación.
+
+### Aplicaciones recomendadas
+
+- Espacios mensuales de alineación.
+- Comunicados internos.
+- Infografías.
+- Actualizaciones del negocio.
+- Piezas de escucha.
+- Campañas de comunicación clara.
+- Mensajes de líderes.
+
+---
+
+## 4.4 Desarrollo Profesional
+
+**Color:** Marigold  
+**HEX:** `#F4A258`
+
+### Por qué este color
+
+Este pilar impulsa aprendizaje, formación, movilidad, feedback, desarrollo y mejora continua.  
+Marigold aporta energía, movimiento y una sensación de avance.
+
+### Significado visual
+
+Crecimiento, aprendizaje, evolución, oportunidad e impulso.
+
+### Aplicaciones recomendadas
+
+- Kaizen University.
+- Programas de formación.
+- Formación continua para líderes.
+- Piezas de movilidad interna.
+- Rutas de aprendizaje.
+- Reconocimiento al crecimiento.
+- Comunicaciones de desarrollo.
+
+---
+
+## 4.5 Experiencia de Valor
+
+**Color:** Clay Human  
+**HEX:** `#B97958`
+
+### Por qué este color
+
+Este pilar representa beneficios, reconocimiento, propuesta de valor, pertenencia y experiencias que fortalecen la conexión con la organización.  
+Clay Human comunica calidez, cercanía y valor emocional.
+
+### Significado visual
+
+Pertenencia, reconocimiento, experiencia, humanidad y valoración.
+
+### Aplicaciones recomendadas
+
+- Kaizen Plus.
+- Beneficios corporativos.
+- Día libre de cumpleaños.
+- Convenios.
+- Experiencias de reconocimiento.
+- Comunicaciones de propuesta de valor al colaborador.
+- Campañas de sentido de pertenencia.
+
+---
+
+# 5. Proporción de uso cromático
+
+Para mantener una identidad visual premium y evitar saturación, los colores deben usarse con una proporción clara.
+
+## Proporción recomendada
+
+- **50% Ivory Way**  
+  Fondos claros, espacios de respiración, documentos, brandbook y slides de contenido.
+
+- **25% Midnight Kaizen**  
+  Estructura, contraste, institucionalidad, títulos, portadas y elementos principales.
+
+- **15% colores de pilares**  
+  Identificación de pilares, secciones temáticas, tarjetas, highlights y campañas específicas.
+
+- **10% acentos cálidos**  
+  Uso moderado de Marigold y Clay Human para llamados a la acción, celebraciones, frases emocionales o detalles editoriales.
+
+---
+
+# 6. Aplicaciones de color en el logo
+
+## 6.1 Versión principal del logo
+
+**Fondo:** `#003144`  
+**Logo:** `#FFFFFF`
+
+Esta es la versión más fuerte y memorable.  
+Debe utilizarse para piezas de lanzamiento, presentaciones principales, pantallas de evento, encabezados, portadas de marca y momentos institucionales.
+
+### Usar cuando
+
+- La marca necesita alta presencia.
+- La pieza es formal o ejecutiva.
+- El logo debe sentirse premium y reconocible.
+- El diseño necesita alto contraste.
+
+---
+
+## 6.2 Versión clara del logo
+
+**Fondo:** `#F7F3E8`  
+**Logo:** `#003144`
+
+Esta versión debe utilizarse en materiales editoriales, páginas del brandbook, documentos internos y layouts con mayor cantidad de contenido.
+
+### Usar cuando
+
+- La pieza requiere alta legibilidad.
+- El diseño necesita calidez y calma.
+- La marca aparece en un contexto más editorial o informativo.
+
+---
+
+## 6.3 Versión del logo con sistema de pilares
+
+El símbolo o la “W” puede utilizar los cinco colores de pilares en aplicaciones especiales.
+
+### Uso recomendado
+
+- Evento de lanzamiento.
+- Infografías de cultura.
+- Presentación de pilares.
+- Piezas de campaña interna.
+- Momentos animados.
+- Aperturas de sección del brandbook.
+- Piezas especiales de reconocimiento.
+
+### Regla importante
+
+La versión multicolor no debe reemplazar al logo principal.  
+Debe tratarse como una expresión cultural especial de la marca, utilizada de forma intencional y moderada.
+
+---
+
+# 7. Guía para interfaz y brandbook HTML
+
+Al construir el brandbook en HTML, el sistema visual debe sentirse premium, minimalista y editorial.
+
+## Estilo visual recomendado
+
+- Amplio uso de espacios en blanco.
+- Fondos suaves.
+- Jerarquía tipográfica fuerte.
+- Tarjetas cromáticas elegantes.
+- Transiciones suaves.
+- Animaciones sutiles al hacer hover.
+- Bordes redondeados.
+- Sombras ligeras, nunca pesadas.
+- Layout basado en grillas.
+- Secciones claras.
+- Sensación editorial, no de plantilla corporativa genérica.
+
+## Estructura sugerida para tarjetas de color
+
+Cada tarjeta de color debe incluir:
+
+- Nombre del color.
+- Rol.
+- HEX.
+- RGB.
+- Usos sugeridos.
+- Significado estratégico.
+- Emoción visual.
+- Ejemplos de aplicación.
+
+## Layout sugerido para tarjetas
+
+Utilizar tarjetas rectangulares grandes inspiradas en brandbooks premium.
+
+Estructura ejemplo:
+
+- Etiqueta superior derecha: `PRINCIPAL`, `SECUNDARIO`, `PILAR` o `ACENTO`.
+- Nombre grande del color.
+- Valores técnicos: HEX / RGB.
+- Descripción breve.
+- Etiquetas de uso.
+
+---
+
+# 8. Accesibilidad y contraste
+
+El sistema debe priorizar la legibilidad.
+
+## Reglas recomendadas
+
+- Usar texto blanco sobre Midnight Kaizen.
+- Usar texto Midnight Kaizen sobre Ivory Way.
+- Evitar texto blanco sobre Celeste Mist, salvo que se valide el contraste.
+- Preferir texto Midnight Kaizen sobre Celeste Mist.
+- Usar Midnight Kaizen o Ivory Way sobre Herb Green según el nivel de contraste.
+- Usar Midnight Kaizen sobre Marigold para mejor legibilidad.
+- Usar Ivory Way o blanco sobre Clay Human según tamaño y contraste.
+- No usar múltiples colores de pilares juntos en bloques grandes, salvo que el layout represente intencionalmente el sistema cultural completo.
+
+---
+
+# 9. Combinaciones cromáticas
+
+## Combinación institucional
+
+- `#003144` Midnight Kaizen
+- `#F7F3E8` Ivory Way
+
+Usar para piezas formales, ejecutivas e institucionales.
+
+---
+
+## Combinación de comunicación
+
+- `#BDD3CE` Celeste Mist
+- `#003144` Midnight Kaizen
+- `#F7F3E8` Ivory Way
+
+Usar para anuncios internos, espacios de alineación, actualizaciones y piezas informativas.
+
+---
+
+## Combinación de bienestar
+
+- `#708C69` Herb Green
+- `#F7F3E8` Ivory Way
+- `#003144` Midnight Kaizen
+
+Usar para bienestar, equilibrio, hábitos saludables e iniciativas de desconexión.
+
+---
+
+## Combinación de crecimiento
+
+- `#F4A258` Marigold
+- `#003144` Midnight Kaizen
+- `#F7F3E8` Ivory Way
+
+Usar para desarrollo, formación, rutas de aprendizaje y crecimiento profesional.
+
+---
+
+## Combinación de pertenencia
+
+- `#B97958` Clay Human
+- `#F7F3E8` Ivory Way
+- `#003144` Midnight Kaizen
+
+Usar para beneficios, reconocimiento, propuesta de valor al colaborador y storytelling emocional.
+
+---
+
+# 10. Narrativa cromática para el brandbook
+
+El siguiente texto puede utilizarse dentro del brandbook:
+
+> La paleta de The Kaizen Way nace del equilibrio entre solidez corporativa y calidez humana. El azul profundo representa la confianza, la dirección y la identidad de Grupo Kaizen. Los tonos claros aportan cercanía y amplitud. Los verdes, celestes y cálidos reflejan los pilares que dan vida a nuestra cultura: trabajar con foco, comunicarnos con claridad, cuidar el bienestar, impulsar el desarrollo y construir experiencias de valor para nuestra gente.
+
+---
+
+# 11. Principios de diseño para el uso del color
+
+## Principio 1: Usar el color con intención
+
+Cada color debe comunicar significado.  
+Evitar usar colores únicamente como decoración.
+
+## Principio 2: Mantener el sistema premium
+
+La paleta debe sentirse calmada, elegante y madura.  
+Evitar saturación excesiva, degradados genéricos o demasiados colores compitiendo al mismo tiempo.
+
+## Principio 3: Dejar que los pilares guíen el sistema
+
+Cada color de pilar debe ayudar a los usuarios a identificar el contenido de forma rápida e intuitiva.
+
+## Principio 4: Mantener Midnight Kaizen como ancla
+
+Incluso cuando se usen colores de pilares, Midnight Kaizen debe mantenerse presente a través de tipografía, íconos, bordes, botones o elementos estructurales.
+
+## Principio 5: Usar Ivory Way para crear calidez
+
+La marca no debe sentirse demasiado oscura ni pesada.  
+Ivory Way debe ayudar a crear suavidad editorial y espacio visual.
+
+---
+
+# 12. Paleta cromática final
+
+| Nombre del color | HEX | RGB | Rol |
+|---|---|---|---|
+| Midnight Kaizen | `#003144` | `0, 49, 68` | Principal / Institucional |
+| Ivory Way | `#F7F3E8` | `247, 243, 232` | Principal claro / Editorial |
+| Celeste Mist | `#BDD3CE` | `189, 211, 206` | Secundario / Comunicación |
+| Herb Green | `#708C69` | `112, 140, 105` | Secundario / Bienestar |
+| Marigold | `#F4A258` | `244, 162, 88` | Secundario / Crecimiento |
+| Clay Human | `#B97958` | `185, 121, 88` | Complementario / Pertenencia |
+
+---
+
+# 13. Resumen cromático por pilares
+
+| Pilar | Color | HEX | Significado |
+|---|---|---|---|
+| Formas de Trabajo | Midnight Kaizen | `#003144` | Foco, claridad, responsabilidad y resultados |
+| Bienestar Integral | Herb Green | `#708C69` | Cuidado, equilibrio y bienestar sostenible |
+| Comunicaciones | Celeste Mist | `#BDD3CE` | Claridad, escucha y conexión |
+| Desarrollo Profesional | Marigold | `#F4A258` | Aprendizaje, evolución e impulso |
+| Experiencia de Valor | Clay Human | `#B97958` | Pertenencia, reconocimiento y valor emocional |
+
+---
+
+# 14. Notas de implementación para Codex
+
+Al diseñar el brandbook en HTML:
+
+- Crear una sección dedicada llamada `Colores`.
+- Usar tarjetas cromáticas grandes y premium.
+- Cada tarjeta debe mostrar el color como bloque visual.
+- Incluir claramente los valores HEX y RGB.
+- Incluir etiquetas como `PRINCIPAL`, `SECUNDARIO`, `PILAR` o `ACENTO`.
+- Incluir descripciones breves para cada color.
+- Incluir una sección separada para `Sistema cromático por pilares`.
+- Incluir guías de proporción de uso.
+- Incluir ejemplos de aplicación del logo sobre distintos fondos.
+- Usar transiciones suaves al hacer hover.
+- Mantener el diseño minimalista y editorial.
+- Evitar saturación visual.
+- Usar Midnight Kaizen como color principal para textos sobre fondos claros.
+- Usar Ivory Way o blanco para textos sobre fondos oscuros.
+- Garantizar que toda la tipografía sea legible y accesible.
+
+La dirección visual final debe sentirse como un sistema refinado de identidad cultural, no solo como una paleta de colores.
